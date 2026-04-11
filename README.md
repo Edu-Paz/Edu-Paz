@@ -3,26 +3,26 @@
 I am a **Systems Analysis and Development** student and a **Java Backend Enthusiast**.
 ---
 
-### 🚀 About Me
-* 🎓 Currently in my 5th semester of **Systems Analysis and Development** at Unisinos.
-* 🛠️ Background as an **Electronics Technician**, which sharpened my logic and troubleshooting skills.
-* 🎯 Transitioning into an intern Software Development with a focus on **Spring Boot**.
+### About Me
+* Currently in my 5th semester of **Systems Analysis and Development** at Unisinos.
+* Background as an **Electronics Technician**, which sharpened my logic and troubleshooting skills.
+* Transitioning into an intern Software Development with a focus on **Spring Boot**.
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Languages:** Java (Core), SQL.
 * **Frameworks:** Spring Boot (Spring Data JPA, Spring Security, REST APIs), React.
 * **Tools:** Git, GitHub, Maven, Postman.
 * **Databases:** PostgreSQL, H2, MySQL.
 
-### 📈 Featured Projects
+### Featured Projects
 * **DSCommerce:** A full-stack backend e-commerce application featuring CRUD operations, authentication, and authorization (in development).
 * **Domain Modeling:** Expertise in Object-Relational Mapping (ORM) and complex database structures.
 
-### 📫 Let's Connect
+### Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/eduardo-paz-141a64157/.
 * **Email:** eduardopazcarv@gmail.com
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
