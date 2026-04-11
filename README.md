@@ -6,7 +6,7 @@ I am a **Systems Analysis and Development** student and a **Java Backend Enthusi
 ### About Me
 * Currently in my 5th semester of **Systems Analysis and Development** at Unisinos.
 * Background as an **Electronics Technician**, which sharpened my logic and troubleshooting skills.
-* Transitioning into an intern Software Development with a focus on **Spring Boot**.
+* Transitioning into an Software Development Intern with a focus on **Spring Boot**.
 
 ### Tech Stack
 * **Languages:** Java (Core), SQL.
