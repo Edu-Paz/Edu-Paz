@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Eduardo! 👋
 
-<!--
-**Edu-Paz/Edu-Paz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Systems Analysis and Development** student and a **Java Backend Enthusiast**.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 🎓 Currently in my 5th semester of **Systems Analysis and Development** at Unisinos.
+* 🛠️ Background as an **Electronics Technician**, which sharpened my logic and troubleshooting skills.
+* 🎯 Transitioning into an intern Software Development with a focus on **Spring Boot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Java (Core), SQL.
+* **Frameworks:** Spring Boot (Spring Data JPA, Spring Security, REST APIs), React.
+* **Tools:** Git, GitHub, Maven, Postman.
+* **Databases:** PostgreSQL, H2, MySQL.
+
+### 📈 Featured Projects
+* **DSCommerce:** A full-stack backend e-commerce application featuring CRUD operations, authentication, and authorization (in development).
+* **Domain Modeling:** Expertise in Object-Relational Mapping (ORM) and complex database structures.
+
+### 📫 Let's Connect
+* **LinkedIn:** https://www.linkedin.com/in/eduardo-paz-141a64157/.
+* **Email:** eduardopazcarv@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
