@@ -20,9 +20,4 @@ I am a **Systems Analysis and Development** student and a **Java Backend Enthusi
 
 ### Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/eduardo-paz-141a64157/.
-* **Email:** eduardopazcarv@gmail.com
-
----
-
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+* **Email:** eduardopazcarv@gmail.com.
