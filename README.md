@@ -17,7 +17,7 @@ I am a **Systems Analysis and Development** student and a **Java Backend Enthusi
 ### Featured Projects
 * **DSCommerce:** A robust e-commerce backend featuring a complex domain model, JWT security, and advanced CRUD operations.
 * **Client Management API:** A professional REST API focused on clean architecture, featuring paged resource retrieval, Jakarta Bean Validation, and a centralized global exception handling system.
-* **Event System:** Implementation of complex Domain Modeling and ORM, managing Many-to-Many relationships and database seeding[cite: 7, 8].
+* **Event System:** Implementation of complex Domain Modeling and ORM, managing Many-to-Many relationships and database seeding.
 * **Order Service:** A Spring Boot application focused on Dependency Injection and Component Coupling to calculate order totals with custom shipping logic.
 
 ### Let's Connect
