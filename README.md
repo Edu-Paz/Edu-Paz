@@ -11,7 +11,7 @@ I am a **Systems Analysis and Development** student and a **Java Backend Enthusi
 ### Tech Stack
 * **Languages:** Java (Core), SQL.
 * **Frameworks:** Spring Boot (Spring Data JPA, Spring Security, REST APIs), React.
-* **Tools:** Git, GitHub, Maven, Postman.
+* **Tools:** Git, GitHub, Maven, Insomnia.
 * **Databases:** PostgreSQL, H2, MySQL.
 
 ### Featured Projects
