@@ -1,6 +1,6 @@
-## Hi there, I'm Eduardo! 👋
+# Hi there, I'm Eduardo! 👋
 
-I am a **Systems Analysis and Development** student and a **Java Backend Enthusiast**.
+## I am a **Systems Analysis and Development** student and a **Java Backend Enthusiast**.
 ---
 
 ### About Me
