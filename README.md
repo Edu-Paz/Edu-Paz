@@ -9,7 +9,7 @@
 * Transitioning into a Software Development role with a focus on **Spring Boot**.
 
 ### Tech Stack
-* **Languages:** Java (Core), SQL.
+* **Languages:** Java (Core), SQL, HTML, CSS, Javascript
 * **Frameworks:** Spring Boot (Spring Data JPA, Spring Security, REST APIs), React.
 * **Tools:** Git, GitHub, Maven, Insomnia.
 * **Databases:** PostgreSQL, H2, MySQL.
