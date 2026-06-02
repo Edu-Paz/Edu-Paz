@@ -15,7 +15,7 @@
 * **Databases:** PostgreSQL, H2, MySQL.
 
 ### Featured Projects
-* **DSCommerce:** A robust e-commerce backend featuring a complex domain model, JWT security, and advanced CRUD operations.
+* **DSCommerce:** A robust e-commerce backend featuring a complex domain model, JWT security, CRUD operations and advanced queries.
 * **Client Management API:** A professional REST API focused on clean architecture, featuring paged resource retrieval, Jakarta Bean Validation, and a centralized global exception handling system.
 * **Event System:** Implementation of complex Domain Modeling and ORM, managing Many-to-Many relationships and database seeding.
 * **Order Service:** A Spring Boot application focused on Dependency Injection and Component Coupling to calculate order totals with custom shipping logic.
