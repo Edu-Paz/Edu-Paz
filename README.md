@@ -19,6 +19,7 @@
 * **Client Management API:** A professional REST API focused on clean architecture, featuring paged resource retrieval, Jakarta Bean Validation, and a centralized global exception handling system.
 * **Event System:** Implementation of complex Domain Modeling and ORM, managing Many-to-Many relationships and database seeding.
 * **Order Service:** A Spring Boot application focused on Dependency Injection and Component Coupling to calculate order totals with custom shipping logic.
+* **Sales Query Challenge:** The system models a sales domain where each Sale belongs to one Seller, and a seller can have many sales. The challenge focuses on implementing custom JPQL queries for reporting and aggregation.
 
 ### Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/eduardo-paz-141a64157/
